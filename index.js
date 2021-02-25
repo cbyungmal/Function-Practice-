@@ -11,8 +11,8 @@
  */
 function length(string) {
     // YOUR CODE BELOW HERE //
-    
-
+    console.log(str.length = "gaines")
+  // expected output: length of string is 6
     // YOUR CODE ABOVE HERE //
 }
 
@@ -21,8 +21,8 @@ function length(string) {
  */
 function toLowerCase(string) {
     // YOUR CODE BELOW HERE //
- 
-
+ console.log(str.toLowerCase("Gaines"))
+// expected output: "gaines"
     // YOUR CODE ABOVE HERE //
 }
 
@@ -31,8 +31,8 @@ function toLowerCase(string) {
  */
 function toUpperCase(string) {
     // YOUR CODE BELOW HERE //
-
-
+console.log(str.toUpperCase("gaines"))
+// expected output: "GAINES"
     // YOUR CODE ABOVE HERE //
 }
 
@@ -51,8 +51,8 @@ function toUpperCase(string) {
  */
 function toDashCase(string) {
     // YOUR CODE BELOW HERE //
-
-       
+console.log(str.toDashCase("I'm having fun"))
+  // expected output: "I'm-having-fun"  
     // YOUR CODE ABOVE HERE //
 }
 
@@ -70,7 +70,8 @@ function toDashCase(string) {
  */
 function beginsWith(string, char) {
     // YOUR CODE BELOW HERE //
-       
+       console.log(str.beginsWith("Mal", "m"); // => true)
+       (str.beginsWith("Mal", "q"); // => false;)
        
     // YOUR CODE ABOVE HERE //
 }
@@ -89,8 +90,8 @@ function beginsWith(string, char) {
  */
 function endsWith(string, char) {
     // YOUR CODE BELOW HERE //
-        
-
+        console.log(str.endsWith("Mal", "L"); // => true;)
+        (str.endsWith("Mal", "w"); // => false;)     
     // YOUR CODE ABOVE HERE //
 }
 
@@ -101,7 +102,7 @@ function endsWith(string, char) {
  */
 function concat(stringOne, stringTwo) {
     // YOUR CODE BELOW HERE //
-
+   console.log(concat)   
 
     // YOUR CODE ABOVE HERE //
 }
